@@ -1,0 +1,10 @@
+Genre,ES Score,IS Score,CV Score,NC Score,TI Score,Theatrical Share,Stream Demand,TFS,ONS,Strategic Verdict
+Action,10,6,8,5,3,33.60%,"~17% (US)",8.4,4.2,Theatrical-First
+Sci-Fi,10,8,8,9,5,"(21.5% Proxy)",High,9.0,7.4,True Hybrid (Format-Dependent)
+Fantasy,9,8,7,10,6,"(21.5% Proxy)",High,8.3,8.4,True Hybrid (Format-Dependent)
+Drama,2,7,3,9,10,7.44%,"High (Largest)",4.7,9.4,OTT-Native
+Horror,5,9,10,6,8,17.23%,"High (Niche)",7.2,6.8,True Hybrid
+Thriller,3,8,5,10,9,4.87%,High,4.9,9.6,OTT-Native
+Comedy,2,5,7,5,7,4.90%,"~17% (Falling)",4.4,5.8,OTT-Native
+Romance,1,6,4,6,10,0.63%,Moderate,3.8,7.6,OTT-Native
+Documentary,1,6,2,7,8,0.84%,"~14% (US)",2.7,7.4,OTT-Dominant
